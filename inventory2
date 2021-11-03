@@ -1,0 +1,2 @@
+[group1]
+host1 inventory_var=inventory2 other_var2=bar
