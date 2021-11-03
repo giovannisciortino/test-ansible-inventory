@@ -1,0 +1,2 @@
+[group1]
+host1 inventory_var=inventory1 other_var1=foo
